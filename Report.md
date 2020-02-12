@@ -19,7 +19,7 @@ To avoid stationary learning, we are using as well random noise (Ornstein-Uhlenb
 
 ## hyperparameters
 
-The following hyperparameters led to the solving of the environment in XXX episodes
+The following hyperparameters led to the solving of the environment in 797 episodes
 
 - BUFFER_SIZE = int(1e6)  # replay buffer size
 - BATCH_SIZE = 256        # minibatch size
