@@ -20,12 +20,31 @@ This yields a single score for each episode.
 The environment is considered solved, when the average (over 100 episodes) of those scores is at least +0.5.
 
 ## This repository
-This repository includes one of the possible solutions to this problem using the DDPG algorithm with multiple agents (2 agents in fact, one for each "player")
+This repository includes one of the possible solutions to this problem using the DDPG algorithm with multiple agents (2 agents in fact, one for each "player"). The implementation was done using pytorch from Facebook research.
 
 ## Instruction to install the environment
 Even though this repository present the solution developped directely in the Udacity provided environment, here is how to install it on your own machine
 
 ### Download the Unity Environment
+
+Prior to that, make sure to deploy a conda virtual environment with at least
+
+- python>=3.6
+- pytorch
+- tensorflow==1.7.1
+- Pillow>=4.2.1
+- matplotlib
+- numpy>=1.11.0
+- pytest>=3.2.2
+- docopt
+- pyyaml
+- protobuf==3.5.2
+- grpcio==1.11.0
+- torch==0.4.0
+- pandas
+- scipy
+
+
 Select the environment that matches your operating system:
 
 - Version 1: One (1) Agent
