@@ -1,5 +1,6 @@
-# Train two agents to play tennis using Deep Reinforcement Learning algorithm
-Udacity Deep Reinforcement learning capstone project : collaboration and competition
+# Collaboration and competition : use Deep Reinforcement Learning to train two agents to play tennis
+
+This project is the capstone project for the Udacity Deep Reinforcement learning nanodegree
 
 ![trained](trained.gif)
 
