@@ -39,6 +39,6 @@ Select the environment that matches your operating system:
 
 Once downloaded, extract the file in your repository folder
 
-### Credits
+## Credits
 
 All credits to Udacity as this repository is largely inspired from the code provided in the udacity exercises
