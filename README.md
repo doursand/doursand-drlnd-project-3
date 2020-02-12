@@ -20,7 +20,7 @@ This yields a single score for each episode.
 The environment is considered solved, when the average (over 100 episodes) of those scores is at least +0.5.
 
 ## This repository
-This repository includes on of the possible solution to this problem using DDPG algorithm with multiple agents
+This repository includes one of the possible solutions to this problem using the DDPG algorithm with multiple agents (2 agents in fact, one for each "player")
 
 ## Instruction to install the environment
 Even though this repository present the solution developped directely in the Udacity provided environment, here is how to install it on your own machine
