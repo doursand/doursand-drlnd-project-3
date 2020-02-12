@@ -23,7 +23,8 @@ This yields a single score for each episode.
 The environment is considered solved, when the average (over 100 episodes) of those scores is at least +0.5.
 
 ## This repository
-This repository includes one of the possible solutions to this problem using the DDPG algorithm with multiple agents (2 agents in fact, one for each "player"). The implementation was done using pytorch from Facebook research.
+This repository includes one of the possible solutions to this problem using the MADDPG algorithm , ie DDPG with multiple agents (2 agents in fact, one for each "player"). 
+The implementation was done using pytorch from Facebook research.
 
 ## Instruction to install the environment
 Even though this repository present the solution developped directely in the Udacity provided environment, here is how to install it on your own machine
@@ -40,6 +41,9 @@ Select the environment that matches your operating system:
   - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86_64.zip)
 
 Once downloaded, extract the file in your repository folder
+
+## Solving the environment
+The environment is considered solved, when the average (over 100 episodes) of those scores is at least +0.5.
 
 ## Credits
 
