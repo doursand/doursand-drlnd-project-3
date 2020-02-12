@@ -3,6 +3,7 @@
 This project is the capstone project for the Udacity Deep Reinforcement learning nanodegree
 
 ![trained](trained.gif)
+* * image courtesy of udacity * *
 
 ## The Environment
 For this project, we will work with the [Unity ML-Agents environment](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation.md), especially the [Tennis environment](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#tennis)
