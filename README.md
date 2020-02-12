@@ -1,4 +1,4 @@
-# doursand-drlnd-project-3
+# Train two agents to play tennis using Deep Reinforcement Learning algorithm
 Udacity Deep Reinforcement learning capstone project : collaboration and competition
 
 ![trained](trained.gif)
