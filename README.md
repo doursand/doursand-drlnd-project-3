@@ -3,6 +3,7 @@
 This project is the capstone project for the Udacity Deep Reinforcement learning nanodegree
 
 ![trained](trained.gif)
+
 *image of trained agents, courtesy of udacity*
 
 ## The Environment
