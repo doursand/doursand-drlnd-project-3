@@ -43,4 +43,5 @@ two specific hyperparameters were instrumental to the quick convergence of the m
 ## Potential improvements
 
 Apparently applying prioritized experience replay could further boost the learning of the MADDPG algorithm, it could be interesting to confirm this in a next release of this work
+
 [Prioritized Replay paper](https://cardwing.github.io/files/RL_course_report.pdf)
