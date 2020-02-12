@@ -38,7 +38,7 @@ two specific hyperparameters were instrumental to the quick convergence of the m
 - in the step() method of the Agent , the agent was modified in such a way that it is learning 10 times in a row (from random subset of the replay buffer) , and this each 10 steps (this led to drastically boosting the learning of the neural networks)
 
 ## Graph
-![graph](graph.jpg)
+![graph](graph.png)
 
 ## Potential improvements
 
