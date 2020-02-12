@@ -1,4 +1,4 @@
-# Collaboration and competition : use Deep Reinforcement Learning to train two agents to play tennis
+# Collaboration and competition : use Deep Reinforcement Learning to train agents to play tennis
 
 This project is the capstone project for the Udacity Deep Reinforcement learning nanodegree
 
@@ -34,7 +34,6 @@ Prior to that, make sure to deploy a conda virtual environment with at least pyt
 
 Select the environment that matches your operating system:
 
-- Version 1: One (1) Agent
   - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Linux.zip)
   - Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis.app.zip)
   - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86.zip)
