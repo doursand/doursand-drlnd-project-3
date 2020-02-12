@@ -42,5 +42,5 @@ two specific hyperparameters were instrumental to the quick convergence of the m
 
 ## Potential improvements
 
-That would also open up for more advanced algorithm like PPO, D4PG or NAF which are leveraging parallel processing of agent to boost the experience gathering. In particular, [NAF](https://arxiv.org/abs/1603.00748) seems quite interesting , as it seems to do a better job to learn a stable policy (as opposed to DDPG). It also seems more adapted for areas where precision is key (like robotic arms precisely, so similar to the problem we are trying to solve here)
-
+Apparently applying prioritized experience replay could further boost the learning of the MADDPG algorithm, it could be interesting to confirm this in a next release of this work
+[Prioritized Replay paper](https://cardwing.github.io/files/RL_course_report.pdf)
