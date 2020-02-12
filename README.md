@@ -26,6 +26,10 @@ The environment is considered solved, when the average (over 100 episodes) of th
 This repository includes one of the possible solutions to this problem using the MADDPG algorithm , ie DDPG with multiple agents (2 agents in fact, one for each "player"). 
 The implementation was done using pytorch from Facebook research.
 
+- Tennis.ipynb is the jupyter notebook used for training
+- model.py contains the pytorch model architecture definitions
+- agent.py contains the code for the agents
+
 ## Instruction to install the environment
 Even though this repository present the solution developped directely in the Udacity provided environment, here is how to install it on your own machine
 
