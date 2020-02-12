@@ -27,23 +27,7 @@ Even though this repository present the solution developped directely in the Uda
 
 ### Download the Unity Environment
 
-Prior to that, make sure to deploy a conda virtual environment with at least
-
-- python>=3.6
-- pytorch
-- tensorflow==1.7.1
-- Pillow>=4.2.1
-- matplotlib
-- numpy>=1.11.0
-- pytest>=3.2.2
-- docopt
-- pyyaml
-- protobuf==3.5.2
-- grpcio==1.11.0
-- torch==0.4.0
-- pandas
-- scipy
-
+Prior to that, make sure to deploy a conda virtual environment with at least pytorch 3.6, unityagents and numpy
 
 Select the environment that matches your operating system:
 
